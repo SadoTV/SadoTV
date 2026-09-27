@@ -9,11 +9,23 @@
 
 ## Download
 
-**Windows 10 / 11 (x64):** [SadoTV-Setup.exe](https://github.com/hakan034/sadotv-releases/releases/latest/download/SadoTV-Setup.exe)
+**Windows 10 / 11 (x64):** [SadoTV-Setup.exe](https://github.com/SadoTV/SadoTV/releases/latest/download/SadoTV-Setup.exe)
 
-All versions: [Releases](https://github.com/hakan034/sadotv-releases/releases)
+All versions: [Releases](https://github.com/SadoTV/SadoTV/releases)
 
 > Windows may show a SmartScreen notice for new apps. Choose **More info → Run anyway**.
+
+## Supported formats
+
+SadoTV plays through mpv / FFmpeg:
+
+- **Streams:** HLS (m3u8), MPEG-TS, progressive HTTP
+- **Containers:** MP4, MKV, WebM, TS, AVI, MOV, FLV
+- **Video:** H.264, H.265 / HEVC, VP8, VP9, AV1, MPEG-2 · up to 4K, 50/60 fps
+- **Audio:** AAC, MP3, AC-3, E-AC-3, DTS, Opus, FLAC
+- **Subtitles:** embedded and external (SRT, ASS, WebVTT)
+
+DRM-protected streams are not supported. Files in a non-standard format show a notice instead of a black screen.
 
 ## Note
 
