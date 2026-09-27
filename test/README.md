@@ -10,7 +10,6 @@ In SadoTV: *Add playlist → M3U URL →* paste the address above *→ Add this 
 
 | Title | Section | Source | Licence |
 |---|---|---|---|
-| Akamai Live Test | Live · Test streams | Akamai public HLS live test stream | Public test stream |
 | Unified Streaming Live Demo | Live · Test streams | Unified Streaming public live demo | Public demo stream |
 | Apple HLS Sample 16:9 | Live · Test streams | Apple HTTP Live Streaming examples | Public developer sample |
 | Apple HLS Sample HEVC 4K | Live · Test streams | Apple HTTP Live Streaming examples (HEVC, up to 2160p) | Public developer sample |
