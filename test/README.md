@@ -26,9 +26,9 @@ In SadoTV: *Add playlist → M3U URL →* paste the address above *→ Add this 
 | Tears of Steel (2012) | Movies · Open films (CC BY) | Internet Archive · Blender Foundation | CC BY 3.0 · Blender Foundation |
 | Cosmos Laundromat (2015) | Movies · Open films (CC BY) | Internet Archive · Blender Foundation | CC BY 4.0 · Blender Foundation |
 | Sprite Fright (2021) | Movies · Open films (CC BY) | Internet Archive · Blender Studio | CC BY 4.0 · Blender Studio |
-| Caminandes S01 E01 - Llama Drama | Series · Open series (CC BY) | Internet Archive · Blender Foundation | CC BY · Blender Foundation |
-| Caminandes S01 E02 - Gran Dillama | Series · Open series (CC BY) | Internet Archive · Blender Foundation | CC BY · Blender Foundation |
-| Caminandes S01 E03 - Llamigos | Series · Open series (CC BY) | Internet Archive · Blender Foundation | CC BY · Blender Foundation |
+| Caminandes S01 E01 - Llama Drama | Series · Open series (CC BY) | Wikimedia Commons · Blender Foundation | CC BY 3.0 · Blender Foundation |
+| Caminandes S01 E02 - Gran Dillama | Series · Open series (CC BY) | Wikimedia Commons · Blender Foundation | CC BY-SA 3.0 · Blender Foundation |
+| Caminandes S01 E03 - Llamigos | Series · Open series (CC BY) | Wikimedia Commons · Blender Foundation | CC BY 3.0 · Blender Foundation |
 
 Channel logos and posters in `logos/` were made for this list in SadoTV colours.
 
